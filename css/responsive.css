@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+
+.dropdown.carts.scds {
+    display: none;
+}
+
+header .col-md-4 {
+    max-width: 33%;
+}
+
+header .top-sec .search-input input#search_field {
+    margin-top: 40px;
+}
+
+.search-input {
+    width: 240px;
+    left: -140px;
+}
+
+header .col-md-4:last-child {
+        max-width: 40%;
+    margin-left: -85px;
+}
+
+button.tgls {
+    position: absolute;
+    right: -228px;
+}
+.togal-manus {
+    width: 295px;
+    max-width: 320px;
+	top: 70px;
+}
+.togal-manus button.clos-btn {
+    position: absolute;
+    right: -28px;
+    top: -22px;
+}
+.row.cal-number .time {
+    margin-bottom: 10px;
+}
+.bnr-top-src {
+    padding: 20px;
+}
+.banner-date {
+    left: 12px;
+    transform: translate(-0%, -50%);
+	top: 95%;
+}
+.organ-sec img.top-pic.img-fluid {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.course-card {
+    margin-bottom: 15px;
+}
+.top-logo {
+    left: -95px;
+    position: absolute;
+}
+section.pro-slider .owl-nav {
+    display: none;
+}
+.maria {
+    margin-bottom: 25px;
+}
+.maria .mar-txt h4 {
+    margin-bottom: 0px;
+}
+img.bnr-tab-pics.img-fluid {
+    display: none;
+}
+section.hom-banner h2 {
+    font-size: 34px;
+}
+section.hom-banner .app-pic img {
+    margin: 3px;
+    width: 47%;
+}
+
+section.hom-banner p {
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Quicksand-Medium';
+}
+
+section.vdos-section .inner-vdo {
+    padding: 0px;
+}
+section.pro-slider .course-link {
+    text-align: left;
+	margin-top: 0px;
+}
+
+.dropdown.carts .dropdown-menu.show {
+    padding: 15px;
+}
+
+.dropdown.carts .dropdown-menu.show {
+    display: block;
+    width: 334px;
+        left: -118px !important;
+    top: 14px !important;
+    border: 0px;
+    box-shadow: 1px 1px 10px 0px #ccc;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+	
+}

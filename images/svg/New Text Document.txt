@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="422" height="286" viewBox="0 0 422 286">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64bbf7"/>
+      <stop offset="1" stop-color="#3d4ed2"/>
+    </linearGradient>
+    <filter id="Rectangle" x="0" y="0" width="422" height="286" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#194987" flood-opacity="0.561"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="CreditCard" transform="translate(24 24)">
+    <g transform="matrix(1, 0, 0, 1, -24, -24)" filter="url(#Rectangle)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="362" height="226" rx="25" transform="translate(24 24)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="mario.rossi_gmail.co" data-name="mario.rossi@gmail.co" transform="translate(0 196.125)" fill="#fff" font-size="14" font-family="Quicksand-Regular, Quicksand"><tspan x="0" y="0">mario.rossi@gmail.com</tspan></text>
+    <text id="_0000" data-name="•••• •••• •••• 0000" transform="translate(24.752 117.52)" fill="#fff" font-size="33" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="33">•••• •••• •••• 0000 </tspan></text>
+    <g id="Icons_Payment_Logos_Paypal" data-name="Icons/Payment/Logos/Paypal" transform="translate(24 24)">
+      <rect id="Icons_Payment_Logos_Paypal_background" data-name="Icons/Payment/Logos/Paypal background" width="53.565" height="44" fill="none"/>
+      <rect id="Hotspot" width="38.261" height="44" fill="none"/>
+      <path id="Paypal" d="M13.392,44,15.964,28.18h3.445c9.506,0,15.494-4.454,17.372-12.875,1.5,1.818,1.791,4.335,1.183,7.338-1.51,7.481-6.682,10.067-13.287,10.067H23.655a1.623,1.623,0,0,0-1.618,1.336l-.084.432-1.286,7.851-.065.336A1.622,1.622,0,0,1,18.98,44ZM1.129,40.173A1.183,1.183,0,0,1,.014,38.782L5.494,1.694A1.928,1.928,0,0,1,7.355,0H20.516c4.535,0,8.08,1.023,10.039,3.409,1.784,2.166,2.28,4.552,1.785,8.072,0,0-.081.542-.134.825-1.736,9.511-7.672,12.8-15.258,12.8h-3.86A1.919,1.919,0,0,0,11.233,26.8l.062-.434-2.04,13.81Z" transform="translate(0)" fill="#fff"/>
+    </g>
+    <g id="Icons_Trash" data-name="Icons/Trash" transform="translate(315 24)">
+      <rect id="Hotspot-2" data-name="Hotspot" width="23" height="23" fill="none"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M2,22.5a1,1,0,0,1-1-1V5.5a1,1,0,0,1-1-1v-1a1,1,0,0,1,1-1H2.5v-1A1.5,1.5,0,0,1,4,0h8a1.5,1.5,0,0,1,1.5,1.5v1H15a1,1,0,0,1,1,1v1a1,1,0,0,1-1,1v16a1,1,0,0,1-1,1Zm9-14v10a1,1,0,1,0,2,0V8.5a1,1,0,1,0-2,0Zm-4,0v10a1,1,0,0,0,2,0V8.5a1,1,0,0,0-2,0Zm-4,0v10a1,1,0,1,0,2,0V8.5a1,1,0,1,0-2,0Zm9.5-6v-1A.5.5,0,0,0,12,1H4a.5.5,0,0,0-.5.5v1Z" transform="translate(4 0.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

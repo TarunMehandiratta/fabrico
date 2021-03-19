@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="152" viewBox="0 0 152 152">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#29a76c"/>
+      <stop offset="1" stop-color="#3b87ab"/>
+    </linearGradient>
+    <filter id="Oval" x="0" y="0" width="152" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#0e432a" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group" transform="translate(22.5 16.5)">
+    <g transform="matrix(1, 0, 0, 1, -22.5, -16.5)" filter="url(#Oval)">
+      <circle id="Oval-2" data-name="Oval" cx="53.5" cy="53.5" r="53.5" transform="translate(22.5 16.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Icons_Trainer" data-name="Icons/Trainer" transform="translate(26 25)">
+      <rect id="Hotspot" width="57" height="57" fill="none"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M24.782,61.957A24.783,24.783,0,0,1,22.3,12.515V7.434H14.87V0H34.7V7.434H27.26v5.081a24.783,24.783,0,0,1-2.478,49.442Zm0-42.131h0l-1.82,12.736a4.956,4.956,0,1,0,3.64,0l-1.82-12.736Zm25.592,3.511,0,0L39.858,12.823,43.8,8.879,54.316,19.394l-3.942,3.942Z" transform="translate(2.478 -2.478)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
